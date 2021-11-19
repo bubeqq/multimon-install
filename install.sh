@@ -24,4 +24,4 @@ make
 
 sudo make install
 
-Echo "Zakończone! Aby uruchomić wpisz "multimon-ng -a stqc""
+Echo "Zakończone!"
