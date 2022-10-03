@@ -11,7 +11,7 @@ echo "Instalacja multimon-ng z stqc"
 
 cd ~/src
 
-git clone https://github.com/sq5bpf/multimon-ng-stqc.git
+git clone https://github.com/bubeqq/multimon-ng-stqc.git
 
 cd ~/src/multimon-ng-stqc
 
