@@ -3,7 +3,7 @@ echo "Sprawdzanie aktualizacji"
 sudo apt-get update
 
 echo "Instalowanie potrzebnych pakietów"
-sudo apt-get --no-install-recommends -y install git cmake libusb-1.0-0-dev libpulse-dev libx11-dev screen libtool autoconf automake libfftw3-dev qt5-default qtcreator build-essential
+sudo apt-get --no-install-recommends -y install git cmake libusb-1.0-0-dev libpulse-dev libx11-dev screen libtool autoconf automake libfftw3-dev qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools qtcreator build-essential
 
 mkdir ~/src
 
